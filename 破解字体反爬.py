@@ -1,4 +1,10 @@
+# -*- coding:utf-8 -*-
 
+"""
+Updated at 14:30 at May 25,2019
+@title: 抖音字体反爬
+@author: xzh0723
+"""
 
 from urllib.request import urlretrieve
 from fontTools.ttLib import TTFont
